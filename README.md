@@ -1,4 +1,5 @@
 # 🏜️モンスターハンターワイルドネス フィードバック コラボレーション
+![共同署名者の数](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/huntersCN/huntersCN/raw/playernum.json&query=$.playernum&label=共同署名者の数&color=blue)
 > [!IMPORTANT]
 >印刷された推薦状に添付されたリンクからこのページにアクセスされた方は、お時間を割いてご覧いただき、誠にありがとうございます。  
 >印刷物のスペースに限りがあるため、ここでは多くの内容を掲載することができません。そのため、印刷物と併せてご参照いただくためのページを作成いたしました。  
