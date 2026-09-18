@@ -9,3 +9,4 @@
 ## ❤️より主観的なアドバイス
   [日本語](./suggestion_jp.md) | [中文](./suggestion.md)
 ## 👥コラボレーションに参加するプレイヤー
+![](https://raw.githubusercontent.com/huntersCn/huntersCn/refs/heads/main/image/players.png)
