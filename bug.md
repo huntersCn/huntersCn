@@ -324,7 +324,7 @@
 
 </details>
 
-### 用户界面
+### 📝用户界面
 <details open> <summary>展开</summary>
 
   - 希望能够修复HUD的锋利度显示更加清晰，明确显示每一段锋利度等级的长度。  
