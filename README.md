@@ -7,6 +7,7 @@
 ## 🐞バグ・その他のフィードバック
   [日本語](./bug_jp.md) | [中文](./bug.md)
 ## ❤️様々な個人的の意見
+本稿には、ゲームの中核システム、エンドコンテンツ、装備構成システム、続編作品で実施可能な最適化・変更などの構想を含んでいます。ご一読いただければ幸いです。  
   [日本語](./suggestion_jp.md) | [中文](./suggestion.md)
 ## 👥有志に参加したプレイヤー
 ![](https://raw.githubusercontent.com/huntersCn/huntersCn/refs/heads/main/image/players.png)
