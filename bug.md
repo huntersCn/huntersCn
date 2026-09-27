@@ -1,7 +1,7 @@
 # Monster Hunter Wilds 问题与意见反馈表
 首先非常抱歉由于时间紧迫未能按照预期进行全部视频录制或截图工作，很多武器相关建议也来不及加入，敬请见谅。  
 因而请麻烦对照之前上传的一些视频配合观看[Video 1](https://youtu.be/K153PXWm4FY?si=tPWkIg-b7NEY3ai6) [Video 2](https://youtu.be/Q7tQL3XU6lM?si=ZpExE_PgiuGn2BZ8) [Video 3](https://youtu.be/RSU4cApdvCc?si=346eg4BLd0wkJdU9)  
-有部分建议内容在[「主观建议」](https://github.com/huntersCn/huntersCn/blob/main/suggestion.md)中有详细提及，希望能够一并参阅
+有部分建议内容在[「主观建议」](https://github.com/huntersCn/huntersCn/blob/main/suggestion.md)中有详细提及，希望能够一并参阅。  
 由于时间紧迫本文也不得不使用Deepseek进行翻译，请见谅。  
 
 ## 📝问题错误反馈
